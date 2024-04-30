@@ -1,4 +1,6 @@
-# HEDEFLER:
+# Yerel Video'dan AXI4-Stream'e:
+
+## HEDEFLER:
    Bu laboratuvarı tamamladığınızda şunları öğreneceksiniz.
 1. AXI4-Stream Protokolünü ne anlama geldiği 
 2. AMD FPGA Cihazlarında Video Verilerinin Taşınması:
@@ -8,7 +10,7 @@
 6. AXI4-Stream ve Video Arayüzü Arasındaki Farklar:
 7. hsync_out ve m_axis_video_tlast Sıklığının Kontrolü:
 
-# ADIMLAR:
+## ADIMLAR:
 
 ### Projeyi aç
 1. XVES_0002 dosyasını indiriniz.
