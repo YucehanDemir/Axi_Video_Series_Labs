@@ -2,5 +2,13 @@
 
 
 ## HEDEFLER:
+Bu laboratuvarı tamamladığınızda şunları öğreneceksiniz.
+1. 
+2. 
+3.
+4.
+
 
 ## ADIMLAR:
+
+
