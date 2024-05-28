@@ -2,13 +2,11 @@
 ## HEDEFLER:
 Bu laboratuvarı tamamladığınızda şunları öğreneceksiniz.
 
-1.
+1. AXI4-Stream ve Native Video Arasındaki Köprünün Oluşturulması
 
-2.
+2.Video Timing Controller (VTC) IP Kullanımı
 
-3.
-
-4.
+3.Simülasyon sonuçlarının analiz edilmesi, özellikle AXI4-Stream verisinin kilitlendiği (locked) ve native video çıktısının başladığı zamanların belirlenmesi
 
 ## ADIMLAR:
 
